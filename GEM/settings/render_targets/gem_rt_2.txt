@@ -1,0 +1,6 @@
+"gem_rt_2"
+{
+	"Name"		"gem_rt_2"
+	"Width"		"512"
+	"Height"	"512"
+}

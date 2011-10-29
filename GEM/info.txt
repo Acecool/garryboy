@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"		"GEM Emulator"
+	"version"	"1"
+	"up_date"	""
+	"author_name"	"Techni and Divran"
+	"author_email"	""
+	"author_url"	"www.wiremod.com"
+	
+	"info"		""
+	"override"	"0"
+}

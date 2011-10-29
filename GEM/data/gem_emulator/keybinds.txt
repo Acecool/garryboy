@@ -1,0 +1,8 @@
+A=20
+B=21
+Start=64
+Select=80
+Up=33
+Left=11
+Down=29
+Right=14
